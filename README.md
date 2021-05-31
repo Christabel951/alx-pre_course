@@ -1,1 +1,1 @@
-First Git basics project
+Git basics project overview
